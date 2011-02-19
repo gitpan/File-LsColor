@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               File-LsColor
-version:            0.130
+version:            0.142
 abstract:           Colorize input filenames just like ls does
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
